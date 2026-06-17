@@ -1,17 +1,26 @@
-
 <div align="center">
-<p>Hi, I'm Nguyen Binh Minh</p>
-<img src="https://komarev.com/ghpvc/?username=sHunOrinn&label=Profile%20views&color=38BDAF&style=flat" alt="Profile views">
+
+<h1>Hi 👋, I'm Nguyen Binh Minh</h1>
+
+<a href="https://git.io/typing-svg">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDAF&center=true&vCenter=true&width=650&lines=Backend+Developer;Information+Technology+Student;Building+RESTful+APIs+and+Web+Applications"
+    alt="Typing SVG"
+  />
+</a>
+
+<br><br>
 
 <a href="mailto:binhminh21032005@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <a href="https://github.com/sHunOrinn">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </a>
 
 </div>
+
 
 ---
 
