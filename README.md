@@ -1,116 +1,130 @@
-```markdown
+````markdown
 <div align="center">
 
-# Hi, I'm Nguyễn Bình Minh 👋
+<img src="https://komarev.com/ghpvc/?username=sHunOrinn&label=Profile%20views&color=38BDAF&style=flat" alt="Profile views">
 
-### Backend Developer | Information Technology Student
+<a href="mailto:binhminh21032005@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white" alt="Gmail">
+</a>
 
-<p>
-  I am an Information Technology student interested in backend development,
-  RESTful APIs, databases, authentication, and scalable web applications.
-</p>
-
-<p>
-  <a href="mailto:binhminh21032005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  
-  <a href="https://github.com/sHunOrinn">
-    <img src="https://img.shields.io/badge/GitHub-sHunOrinn-181717?style=for-the-badge&logo=github">
-  </a>
-</p>
+<a href="https://github.com/sHunOrinn">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub">
+</a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### 👨‍💻 About Me
 
-- 🎓 Information Technology student at University of Transport and Communications
-- 💻 Interested in Backend Development and Web Application Development
-- 🔭 Currently working with ASP.NET Core, RESTful APIs, SQL Server, and Flutter
-- 🌱 Learning Node.js, Express, Docker, and cloud deployment
-- 🤝 Experienced in collaborating on team projects
-- 📍 Ho Chi Minh City, Vietnam
+```python
+class NguyenBinhMinh:
+    def __init__(self):
+        self.role      = "IT Student & Aspiring Backend Developer"
+        self.school    = "University of Transport and Communications ('27)"
+        self.current   = "Building backend, web, and mobile applications"
+        self.focus     = [
+            "Backend Development",
+            "RESTful APIs",
+            "Database Design"
+        ]
+        self.languages = ["Vietnamese", "English"]
+        self.goal      = "Become a professional Backend Developer"
 
----
-
-## 🛠️ Technologies and Tools
-
-### Programming Languages
-
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,java,dart,cpp,js" alt="Programming languages">
-</p>
-
-### Backend and Frameworks
-
-<p>
-  <img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,flutter,bootstrap" alt="Frameworks">
-</p>
-
-### Databases
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,firebase" alt="Databases">
-  <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white">
-</p>
-
-### Tools and Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,azure,postman,vscode,visualstudio" alt="Tools">
-</p>
+    def say_hi(self):
+        print("Thanks for visiting my profile. Let's build something great!")
+````
 
 ---
 
-## 🚀 Featured Projects
+### 🛠️ Tech Stack
 
-### 🎬 Cinema Operations and Ticket Booking System
+![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge\&logo=dart\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
 
-A web-based cinema operations and online ticket-booking system.
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge\&logo=firebase\&logoColor=black)
 
-**Main features:**
-
-- Movie, showtime, room, seat, ticket, and invoice management
-- Authentication and role-based authorization
-- Real-time seat availability using SignalR
-- QR-code payment integration using PayOS
-- Employee and work-shift management
-
-**Technologies:** C#, ASP.NET Core MVC, Entity Framework Core, SQL Server, SignalR, PayOS
-
-[View repository](https://github.com/sHunOrinn/Cinestar_Web)
-
----
-
-### 🚘 Driving Licence Theory Learning Application
-
-A cross-platform application that supports driving-theory learning and mock tests.
-
-**Main features:**
-
-- Topic-based learning and mock tests
-- Google Sign-In
-- Community forum with posts, likes, and comments
-- Image uploads and real-time notifications
-- AI-supported content moderation
-
-**Technologies:** Flutter, Dart, RESTful APIs, Firebase Authentication, Cloud Firestore, SQLite
-
-[View repository](https://github.com/sHunOrinn/Driving_Test)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)
 
 ---
 
-## 📊 GitHub Statistics
+### 📊 GitHub Stats
 
 <div align="center">
 
-<img height="165"
-     src="https://github-readme-stats.vercel.app/api?username=sHunOrinn&show_icons=true&theme=transparent&hide_border=true">
+<img
+width="48%"
+src="https://github-readme-stats.vercel.app/api?username=sHunOrinn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAF&icon_color=38BDAF&text_color=FFFFFF"
+alt="GitHub Stats"
+/>
 
-<img height="165"
-     src="https://github-readme-stats.vercel.app/api/top-langs/?username=sHunOrinn&layout=compact&theme=transparent&hide_border=true">
+<img
+width="48%"
+src="https://streak-stats.demolab.com?user=sHunOrinn&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDAF&fire=38BDAF&currStreakLabel=38BDAF&sideLabels=FFFFFF&dates=FFFFFF"
+alt="GitHub Streak"
+/>
+
+<br>
+
+<img
+width="42%"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=sHunOrinn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAF&text_color=FFFFFF"
+alt="Top Languages"
+/>
+
+</div>
+
+---
+
+### 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/sHunOrinn/Cinestar_Web">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=sHunOrinn&repo=Cinestar_Web&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAF&icon_color=38BDAF&text_color=FFFFFF"
+    alt="Cinestar Web"
+  />
+</a>
+
+<a href="https://github.com/sHunOrinn/Driving_Test">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=sHunOrinn&repo=Driving_Test&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAF&icon_color=38BDAF&text_color=FFFFFF"
+    alt="Driving Test"
+  />
+</a>
+
+<a href="https://github.com/sHunOrinn/FBAPICoreService">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=sHunOrinn&repo=FBAPICoreService&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAF&icon_color=38BDAF&text_color=FFFFFF"
+    alt="FB API Core Service"
+  />
+</a>
+
+<a href="https://github.com/sHunOrinn/Cinema_AppDesktop">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=sHunOrinn&repo=Cinema_AppDesktop&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDAF&icon_color=38BDAF&text_color=FFFFFF"
+    alt="Cinema App Desktop"
+  />
+</a>
 
 </div>
 
@@ -118,9 +132,7 @@ A cross-platform application that supports driving-theory learning and mock test
 
 <div align="center">
 
-### Thank you for visiting my profile!
-
-<img src="https://komarev.com/ghpvc/?username=sHunOrinn&style=flat-square&color=blue" alt="Profile views">
+*"Building reliable backend systems, one API at a time."*
 
 </div>
 ```
