@@ -1,6 +1,6 @@
 
 <div align="center">
-
+<p>Hi, I'm Nguyen Binh Minh</p>
 <img src="https://komarev.com/ghpvc/?username=sHunOrinn&label=Profile%20views&color=38BDAF&style=flat" alt="Profile views">
 
 <a href="mailto:binhminh21032005@gmail.com">
