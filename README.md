@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=sHunOrinn&label=Profile%20views&color=38BDAF&style=flat" alt="Profile views">
@@ -17,25 +17,17 @@
 
 ### 👨‍💻 About Me
 
-```python
-class NguyenBinhMinh:
-    def __init__(self):
-        self.role      = "IT Student & Aspiring Backend Developer"
-        self.school    = "University of Transport and Communications ('27)"
-        self.current   = "Building backend, web, and mobile applications"
-        self.focus     = [
-            "Backend Development",
-            "RESTful APIs",
-            "Database Design"
-        ]
-        self.languages = ["Vietnamese", "English"]
-        self.goal      = "Become a professional Backend Developer"
+- 🎓 Information Technology student at the University of Transport and Communications
+- 💻 Aspiring Backend Developer
+- 🔭 Currently building backend, web, and mobile applications
+- 🎯 Focused on Backend Development, RESTful APIs, and Database Design
+- 🌱 Learning ASP.NET Core, Node.js, Express, Docker, and cloud deployment
+- 🤝 Experienced in collaborating on team projects
+- 🌐 Languages: Vietnamese and English
+- 📍 Ho Chi Minh City, Vietnam
+- 🚀 Goal: Become a professional Backend Developer
 
-    def say_hi(self):
-        print("Thanks for visiting my profile. Let's build something great!")
-````
 
----
 
 ### 🛠️ Tech Stack
 
