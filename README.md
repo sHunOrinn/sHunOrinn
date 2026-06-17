@@ -27,7 +27,7 @@
 - 📍 Ho Chi Minh City, Vietnam
 - 🚀 Goal: Become a professional Backend Developer
 
-
+---
 
 ### 🛠️ Tech Stack
 
@@ -120,11 +120,3 @@ alt="Top Languages"
 
 </div>
 
----
-
-<div align="center">
-
-*"Building reliable backend systems, one API at a time."*
-
-</div>
-```
